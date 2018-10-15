@@ -1,0 +1,117 @@
+@font-face {
+  font-family: "Lack";
+  src: url("fonts/Lack-Regular.woff") format("woff2");
+
+  font-family: "Mourier";
+  src: url("fonts/Mourier.woff") format("woff2");
+
+  font-family: "Happytimes";
+  src: url("fonts/happy-times-at-the-ikob-webfont.woff") format("woff2");
+}
+
+
+
+.flex {
+	display: flex;
+	width: 700;
+
+    margin-right: 45px;
+    margin-left: 45px;
+}
+
+
+
+.cyan {
+
+color: cyan;
+}
+
+h1 {
+
+	
+	font-family: Mourier;
+	
+	font-size: 300px;
+	line-height: 200px;
+	
+	width: 200px;
+
+
+
+	
+}
+
+.mourier {
+font-family: Mourier;
+
+}
+
+h2{
+font-family: Lack;
+
+
+	font-size: 50px;
+	line-height: 52px;
+	
+	margin-left: 10px;
+	
+
+		
+}
+
+.skewy { transform: skewY(20deg);
+
+
+}
+
+
+p{
+
+font-family: Happytimes;
+	width: 350px;
+	font-size: 15px;
+
+	line-height: 17px;
+	 
+	  margin-right: 200px;
+	  padding:30px 30px 30px 30px;
+
+
+	
+
+	
+}
+
+.rotate {
+
+	transform: rotate(47.5deg);
+}
+
+.flex-vertical {
+
+  display: flex;
+
+  width: 800px;
+  flex-direction: column;
+  margin-right: 800px;
+
+}
+
+.black {
+	background-color: black;
+}
+
+.white {
+	color: white;
+}
+
+ .width
+ { width: 400px;}
+
+
+.topmargin {
+
+	 margin-top: 275px;
+}
+
+	

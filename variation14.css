@@ -1,0 +1,192 @@
+@font-face {
+  font-family: "Lack";
+  src: url("fonts/Lack-Regular.woff") format("woff2");
+
+  font-family: "Mourier";
+  src: url("fonts/Mourier.woff") format("woff2");
+
+  font-family: "Happytimes";
+  src: url("fonts/happy-times-at-the-ikob-webfont.woff") format("woff2");
+}
+
+
+
+.flex {
+	display: flex;
+	width: 1000;
+
+    margin-right: 45px;
+    margin-left: 45px;
+}
+
+
+
+.cyan {
+
+color: cyan;
+}
+
+h1 {
+
+	
+	font-family: Happytimes;
+	
+	font-size: 60px;
+	line-height: 62px;
+	
+	width: 300px;
+	
+ margin-left: 45px;
+
+
+	
+}
+
+.shift
+{margin-left: 120px;}
+
+
+
+.lack {
+
+	font-family: Lack;
+transform: rotate(-60deg);
+width: 400px;
+ margin-left: 100px;
+
+}
+
+.Happytimes {
+font-family: Happytimes;
+	
+}
+
+
+flex-direction {
+
+	flex-flow: flexwrap;
+}
+
+.lack2 {
+
+	font-family: Lack;
+transform: rotate(30deg);
+width: 700px;
+font-size: 10px;
+margin-bottom: 20px;
+
+}
+
+flex-end {
+
+	justify-content: flex-end;
+}
+
+h3{
+font-family: Happytimes;
+
+
+	font-size: 30px;
+	line-height: 32px;
+	transform: rotate(30deg);
+	margin-left: 10px;
+position: absolute;
+		
+}
+
+h4{
+font-family: lack;
+
+
+	font-size: 60px;
+	line-height: 62px;
+	transform: rotate(30deg);
+	margin-left: 100px;
+	margin-top: 270px;
+	position: absolute;
+
+		
+}
+
+
+h5 {
+font-family: Lack;
+
+
+	font-size: 200px;
+	line-height: 200px;
+	margin-left: 100px;
+	margin-top: 400px;
+	position: absolute;
+
+		
+}
+
+h2{
+font-family: Happytimes;
+
+
+	font-size: 50px;
+	line-height: 52px;
+	transform: rotate(-30deg);
+	margin-left: 10px;
+
+		
+}
+
+
+p{
+
+font-family: mourier;
+	width: 350px;
+	font-size: 15px;
+
+	line-height: 17px;
+	 
+	  margin-right: 200px;
+	   margin-top: 150px;
+	  padding:30px 30px 30px 30px;
+	  transform: rotate(30deg);
+	
+
+	
+}
+
+.rotate {
+
+	transform: rotate(-60deg);
+}
+
+.rotate30 {
+
+	transform: rotate(-60deg);
+}
+
+.flex-vertical {
+
+  display: flex;
+
+  width: 800px;
+  flex-direction: column;
+  margin-right: 800px;
+
+}
+
+.black {
+	background-color: black;
+}
+
+.white {
+	color: white;
+}
+
+ .width
+ { width: 400px;}
+
+
+.topmargin {
+
+	 margin-top: 170px;
+}
+
+	
