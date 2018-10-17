@@ -11,17 +11,24 @@ margin: 100px auto;
 }
 
 
+
 @font-face {
   font-family: "Lack";
   src: url("fonts/Lack-Regular.woff") format("woff2");
 
+}
+
+@font-face {
+
   font-family: "Mourier";
   src: url("fonts/Mourier.woff") format("woff2");
+}
+
+@font-face {
 
   font-family: "Happytimes";
   src: url("fonts/happy-times-at-the-ikob-webfont.woff") format("woff2");
 }
-
 .flex {
 	display: flex;
 	width: 500;
