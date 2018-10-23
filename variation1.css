@@ -14,15 +14,25 @@ text-decoration: none;
 
 
 
-.cube {
 
-	margin: 50px; 50px, 50px, 50px;
+
+
+.cube a {
+	display: block;
+
 	width: 20px;
 	height: 20px;
-	background-color: black;
-	 padding:20px 20px 20px 20px;
-}
+	background-color: cyan;
+ padding:10px 10px 10px 10px;
+ margin: 0 auto;
+   font-family:Lack;
 
+      font-size: 10px;
+
+      font-weight: bold;
+      color: #000000;
+      text-align: center;
+}
 
 
 
@@ -31,7 +41,7 @@ div {
 	
 
 align-content: center;
-margin: 100px auto;
+ margin: 0 auto;
 
 
 
