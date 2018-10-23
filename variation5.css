@@ -1,4 +1,30 @@
 
+
+
+.cube a {
+
+	text-decoration: none;
+	display: block;
+
+	width: 20px;
+	height: 20px;
+	background-color: black;
+ padding:10px 10px 10px 10px;
+ margin: 0 auto;
+   font-family:Lack;
+
+      font-size: 10px;
+
+      font-weight: bold;
+      color: #ffffff;
+      text-align: center;
+}
+
+
+
+
+
+
 div {
 
 	
