@@ -5,30 +5,78 @@ body {
 }
 
 a{
-color: black;
+color: white;
+text-decoration: none;
 
 }
+
+
+
+
+.cube a {
+	display: block;
+
+	width: 20px;
+	height: 20px;
+	background-color: black;
+ padding:20px 20px 20px 20px;
+ margin: 0 auto;
+   font-family:Lack;
+
+      font-size: 20px;
+
+      font-weight: bold;
+      color: #FFFFFF;
+      text-align: center;
+}
+
+.cube {
+	 display: inline-block;
+	 margin: 0 auto;
+	 width: 100px;
+	 height: 100px;
+
+}
+
+/*.flex {
+
+
+
+	display: flex;
+	width: 100%;
+	flex-direction: row;
+
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.flex::after {
+  content: "";
+  flex: auto;
+}*/
+
 
 h1 {
 
-	font-family: helvetica, Arial, sanas serif;
+	font-family: Lack;
 	font-size: 50px;
-	color: #000000;
-
-	 padding:50px 50px 20px 50px;
+	color: black;
+margin: 70px 18px 70px 18px;
 	
 }
 
-     p {
+p {
 
-   font-family:helvetica, Arial, sanas serif;
-
-      font-size: 30px;
-
-      font-weight: lighter;
-      color: #000000;
-      text-align: left;
-      padding:20px 50px 20px 50px;
+     
 
 }
+
+
+@font-face {
+
+  font-family: "Lack";
+  src: url("fonts/Lack.woff") format("woff2");
+}
+
+   
 
