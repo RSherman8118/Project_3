@@ -1,3 +1,14 @@
+
+
+@font-face {
+
+  font-family: "Lack";
+  src: url("fonts/Lack.woff") format("woff2");
+}
+
+
+
+
 body {
 	 background-color: aqua; 
 	 color: white;
@@ -71,12 +82,6 @@ p {
 
 }
 
-
-@font-face {
-
-  font-family: "Lack";
-  src: url("fonts/Lack.woff") format("woff2");
-}
 
    
 
